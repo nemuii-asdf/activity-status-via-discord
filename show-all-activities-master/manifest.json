@@ -1,0 +1,7 @@
+{
+    "name": "Show All Activities",
+    "description": "Shows all user activities in places that Discord doesn't show them.",
+    "author": "Juby210#0577",
+    "version": "2.0.0",
+    "license": "MIT"
+}
